@@ -1,4 +1,3 @@
-require_relative "../../features/modules/correios_httparty_bjects"
 class CorreiosHttparty
   include CorreiosHTTPartyObjects
 
